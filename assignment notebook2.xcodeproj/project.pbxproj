@@ -11,6 +11,7 @@
 		4A3A27062A05C1560023882C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A3A27052A05C1560023882C /* ContentView.swift */; };
 		4A3A27082A05C15A0023882C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A3A27072A05C15A0023882C /* Assets.xcassets */; };
 		4A3A270B2A05C15A0023882C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A3A270A2A05C15A0023882C /* Preview Assets.xcassets */; };
+		4A5184642A05D7F000B34D4E /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5184632A05D7F000B34D4E /* ToDoList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4A3A27052A05C1560023882C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4A3A27072A05C15A0023882C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A3A270A2A05C15A0023882C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4A5184632A05D7F000B34D4E /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		4A3A27022A05C1560023882C /* assignment notebook2 */ = {
 			isa = PBXGroup;
 			children = (
+				4A5184632A05D7F000B34D4E /* ToDoList.swift */,
 				4A3A27032A05C1560023882C /* assignment_notebook2App.swift */,
 				4A3A27052A05C1560023882C /* ContentView.swift */,
 				4A3A27072A05C15A0023882C /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A3A27062A05C1560023882C /* ContentView.swift in Sources */,
+				4A5184642A05D7F000B34D4E /* ToDoList.swift in Sources */,
 				4A3A27042A05C1560023882C /* assignment_notebook2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
